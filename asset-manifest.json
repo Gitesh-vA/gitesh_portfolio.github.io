@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitesh_portfolio.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/gitesh_portfolio.github.io/static/js/main.a644f649.js",
+    "static/js/453.64fc7b0e.chunk.js": "/gitesh_portfolio.github.io/static/js/453.64fc7b0e.chunk.js",
+    "index.html": "/gitesh_portfolio.github.io/index.html",
+    "main.f855e6bc.css.map": "/gitesh_portfolio.github.io/static/css/main.f855e6bc.css.map",
+    "main.a644f649.js.map": "/gitesh_portfolio.github.io/static/js/main.a644f649.js.map",
+    "453.64fc7b0e.chunk.js.map": "/gitesh_portfolio.github.io/static/js/453.64fc7b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a644f649.js"
+  ]
+}
