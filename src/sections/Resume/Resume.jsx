@@ -24,7 +24,7 @@ const Resume = () => {
                 <h4>Gitesh Yadav</h4>
                 <p>
                   <em>
-                    Passionate React developer with 3+ years of experience in
+                    Passionate React developer with 3+ years  of experience in
                     building dynamic, responsive web applications, adept at
                     transforming complex requirements into engaging user
                     experiences.
